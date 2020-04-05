@@ -82,12 +82,12 @@ experiences:
       details: |
         I was involved in a variety of projects mainly focussed on healthcare devices.
         There was projects like windows app and configuration manager for x-ray machines
-        - Understand the user acceptance criteria in the user story and clarify any issues by analyzing the current configuration workflow.
-        - Implementation of the corresponding functionality.
-        - Writing JUnit Test Cases
-        - Daily update with the scrum master and team also client regarding daily tasks.
-        - Help team members in their tasks when there is a roadblock for them
-        - Reviewing codes of peers, Unit Testing and bug fixes.
+          - Understand the user acceptance criteria in the user story and clarify any issues by analyzing the current configuration workflow.
+          - Implementation of the corresponding functionality.
+          - Writing JUnit Test Cases
+          - Daily update with the scrum master and team also client regarding daily tasks.
+          - Help team members in their tasks when there is a roadblock for them
+          - Reviewing codes of peers, Unit Testing and bug fixes.
     - role: Software Engineer
       time: Nov 2014 - Nov 2016
       company: UST Global, Trivandrum
@@ -96,10 +96,10 @@ experiences:
         self-service, web-based, business solutions platform comprised of a suite of
         powerful tools for sharing knowledge and finding answers, digitizing and managing processes,
         and tapping, recording and eliciting the collective expertise of organizations
-        - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
-        - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
-        - Interacting with client
-        - Monitor and help in the deployment of the application.
+          - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+          - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+          - Interacting with client
+          - Monitor and help in the deployment of the application.
     - role: Software Engineer
       time: Nov 2013 - Nov 2014
       company: KraftLabs Technologies, Trivandrum
@@ -109,10 +109,10 @@ experiences:
         classifieds websites and integrate with the backend and admin console of the same.
         Creation of a web application that is used by the client to store data from purchase of raw
         material to the product creation step by step.
-        - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
-        - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
-        - Interacting with client
-        - Monitor and help in the deployment of the application.
+          - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+          - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+          - Interacting with client
+          - Monitor and help in the deployment of the application.
 
 skills:
     title: Skills &amp; Proficiency
