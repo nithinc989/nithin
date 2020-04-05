@@ -7,183 +7,179 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Nithin Chandran K
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: nithinc989@gmail.com
+    phone: 9496346154
+    website: nithinc989.wordpress.com #do not add http://
+    linkedin: nithinc989
+    github: nithinc989
+    gitlab: 
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    twitter: '@nithin4030'
+    stack-overflow: 4663831/nithin # Number/Username, e.g. 123456/alandoe
+    codewars: nithinc989
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Advanced
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: malayalam
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Mathematics & Science
         link:
 
-      - item: Snowboarding
+      - item: Sports(Cricket, Football, Tennis, Table Tennis, any sports that keep m engaged)
         link:
 
-      - item: Cooking
+      - item: Movies
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Going through my 7th year As a software engineer in a wwide range of technologies. 
+      I have expertise in problem solving at architecture level and implementation level 
+      and also Micro services architecture design and implementation. 
+      Primarily a Backend Engineer using Java latest versions and also
+      have strong background in functional requirement analysis and
+      converting them time and cost efficiently into products.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BTech in Electronics & Communicatin Engineering
+      university: Government Engineering College, University of Calicut
+      time: 2008 - 2012
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: Jan 2018 - Present
+      company: Qburst Technologies, Trivandrum, Kerala
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I Was Involved in 3 projects in the time that I have spent at this company. 
+        The first project was a sentiment analysis project which was almost completed when I jumped in,
+        All I had to do was do some optimisation on Neo4J which was the database.
+        The secnd one was a website to give customers facility to schedule appointments. 
+        My role was primarily to architect the project in a simple scalable way.
+        The latest project is core backend part of an e-commerce retail application
+        which is focused on clothing items. The other two projects were relatively smaller one's.
+        My roles  mainly across is listed below,
+          - Requirement analysis and identify potential risks/issue.
+          - Task definition and design discussion and finalization
+          - Development and unit testing and IIT
+          - Help team members when they hit a wall
+          - Reviewing codes of peers, Unit Testing and bug fixes.
+          - Mentoring the team members and help them absorb their task well.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Nov 2016 - Jan 2018
+      company: Quest Global, Trivandrum
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        I was involved in a variety of projects mainly focussed on healthcare devices.
+        There was projects like windows app and configuration manager for x-ray machines
+        - Understand the user acceptance criteria in the user story and clarify any issues by analyzing the current configuration workflow.
+        - Implementation of the corresponding functionality.
+        - Writing JUnit Test Cases
+        - Daily update with the scrum master and team also client regarding daily tasks.
+        - Help team members in their tasks when there is a roadblock for them
+        - Reviewing codes of peers, Unit Testing and bug fixes.
+    - role: Software Engineer
+      time: Nov 2014 - Nov 2016
+      company: UST Global, Trivandrum
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        I was involved in a project which was used by consumers for,
+        self-service, web-based, business solutions platform comprised of a suite of
+        powerful tools for sharing knowledge and finding answers, digitizing and managing processes,
+        and tapping, recording and eliciting the collective expertise of organizations
+        - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+        - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+        - Interacting with client
+        - Monitor and help in the deployment of the application.
+    - role: Software Engineer
+      time: Nov 2013 - Nov 2014
+      company: KraftLabs Technologies, Trivandrum
+      details: |
+        Develop Admin console for an already existing website.
+        Develop a replacement for an already available framework which is used to create
+        classifieds websites and integrate with the backend and admin console of the same.
+        Creation of a web application that is used by the client to store data from purchase of raw
+        material to the product creation step by step.
+        - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+        - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+        - Interacting with client
+        - Monitor and help in the deployment of the application.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java(Familiar upto Java version 11)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Ubuntu,Windows,CentOS
+        level: 80%
+
+      - name: Java Frameworks (Spring, Spring-boot, Play, Akka, Dropwizard) 
+        level: 90%
+
+      - name: SQL & NoSQL Databases (PostgreSQL,MySQL,Oracle,MongoDB,GraphDB(Neo4J),sqlite)
+        level: 80%
+
+      - name: ORM Frameworks (Mybatis3, Hibernate) 
+        level: 80%
+
+      - name: Queing Frameworks (Apache Kafka, RabbitMQ) 
+        level: 80%
+
+      - name: Build Tools(Mave, Gradle)
+        level: 80%
+
+      - name: GIT, SVN, Perforce
         level: 85%
+
+      - name: Docker, Docker-compose
+        level: 75%
+
+      - name: Redis
+        level: 80%
+
+      - name: Tomcat
+        level: 75%
+
+      - name: flyway
+        level: 90%
+
+      - name: Junit, Mockito, WireMock
+        level: 80%
+
+      - name: Swagger
+        level: 85%
+
+      - name: JSON, YAML, XML
+        level: 95%
+
+      - name: Code covere and quality tools(SonarQube, CheckMarx, Coverity, FindBug, PMD, Checkstyle)
+        level: 75%
+
+      - name: AWS tools(ECS,EC2,ECR,Cognito)
+        level: 60%
+
+      - name: Other Languages(PHP, Javascript, Typescript)
+        level: 50%
 
       - name: Sketch & Photoshop
         level: 60%
+
+      - name: Other frameworks(CodeIgniter, Angularjs, Angular2 & jQuery, Electron, Cordova)
+        level: 50%
+
+      - name: HTML5 & CSS
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
