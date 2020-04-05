@@ -57,6 +57,112 @@ education:
     - degree: BTech in Electronics & Communicatin Engineering
       university: Government Engineering College, University of Calicut
       time: 2008 - 2012
+      details: |
+        Completed the course from one of the best colleges in Kerala.
+experiences:
+    - role: Lead Developer
+      time: Jan 2018 - Present
+      company: Qburst Technologies, Trivandrum, Kerala
+      details: |
+        I Was Involved in 3 projects in the time that I have spent at this company. 
+        The first project was a sentiment analysis project which was almost completed when I jumped in,
+        All I had to do was do some optimisation on Neo4J which was the database.
+        The secnd one was a website to give customers facility to schedule appointments. 
+        My role was primarily to architect the project in a simple scalable way.
+        The latest project is core backend part of an e-commerce retail application
+        which is focused on clothing items. The other two projects were relatively smaller one's.
+        My roles  mainly across is listed below,
+          - Requirement analysis and identify potential risks/issue.
+          - Task definition and design discussion and finalization
+          - Development and unit testing and IIT
+          - Help team members when they hit a wall
+          - Reviewing codes of peers, Unit Testing and bug fixes.
+          - Mentoring the team members and help them absorb their task well.
+    - role: Senior Software Engineer
+      time: Nov 2016 - Jan 2018
+      company: Quest Global, Trivandrum
+      details: |
+        I was involved in a variety of projects mainly focussed on healthcare devices.
+        There was projects like windows app and configuration manager for x-ray machines
+          - Understand the user acceptance criteria in the user story and clarify any issues by analyzing the current configuration workflow.
+          - Implementation of the corresponding functionality.
+          - Writing JUnit Test Cases
+          - Daily update with the scrum master and team also client regarding daily tasks.
+          - Help team members in their tasks when there is a roadblock for them
+          - Reviewing codes of peers, Unit Testing and bug fixes.
+    - role: Software Engineer
+      time: Nov 2014 - Nov 2016
+      company: UST Global, Trivandrum
+      details: |
+        I was involved in a project which was used by consumers for,
+        self-service, web-based, business solutions platform comprised of a suite of
+        powerful tools for sharing knowledge and finding answers, digitizing and managing processes,
+        and tapping, recording and eliciting the collective expertise of organizations
+          - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+          - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+          - Interacting with client
+          - Monitor and help in the deployment of the application.
+    - role: Software Engineer
+      time: Nov 2013 - Nov 2014
+      company: KraftLabs Technologies, Trivandrum
+      details: |
+        Develop Admin console for an already existing website.
+        Develop a replacement for an already available framework which is used to create
+        classifieds websites and integrate with the backend and admin console of the same.
+        Creation of a web application that is used by the client to store data from purchase of raw
+        material to the product creation step by step.
+          - Collect the requirements from the customer and help management come up with development roadmaps. Requirement gathering and analysis
+          - Use the latest techniques or approaches in java or supporting frameworks to improve the overall performance, scalability and memory management.
+          - Interacting with client
+          - Monitor and help in the deployment of the application.
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 skills:
     title: Skills &amp; Proficiency
 
